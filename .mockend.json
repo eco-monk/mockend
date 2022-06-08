@@ -1,6 +1,3 @@
 {
-  "User": {
-    "title": { "string": {} }
-  },
-  "empty": null
+  "User": null
 }
